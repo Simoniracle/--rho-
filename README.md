@@ -1,4 +1,4 @@
-# --rho-
+# decomposition-rho-
 ρ方法： 
 
 主要思想： 
